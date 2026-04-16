@@ -1,4 +1,4 @@
-# 🚀 SkillMatch ATS: Intelligent Resume Screening System
+# SkillMatch ATS: Intelligent Resume Screening System
 
 SkillMatch is a full-stack Applicant Tracking System (ATS) designed to eliminate the inefficiency of manual resume screening. Built with a robust Java Spring Boot backend and an H2 in-memory database, the application provides a dual-portal interface for candidates and recruiters. 
 
@@ -6,7 +6,7 @@ The system utilizes a rule-based parsing engine to instantly compare candidate s
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **Backend:** Java 17, Spring Boot (Web, Data JPA)
 * **Database:** H2 In-Memory Database
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript (Fetch API)
@@ -15,7 +15,7 @@ The system utilizes a rule-based parsing engine to instantly compare candidate s
 
 ---
 
-## 📂 Internal Architecture & Code Structure
+## Internal Architecture & Code Structure
 The backend is designed using a strict, layered architecture to ensure separation of concerns, utilizing core OOP principles like Abstraction and Encapsulation.
 
 * `model/`: Defines the data entities. Includes the `Candidate` class marked with `@Entity` to automatically map Java objects to database tables.
@@ -26,7 +26,7 @@ The backend is designed using a strict, layered architecture to ensure separatio
 
 ---
 
-## 💻 How to Run Locally
+## How to Run Locally
 
 Follow these steps to run the ATS on your local machine:
 
